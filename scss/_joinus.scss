@@ -1,0 +1,44 @@
+.joinus{
+    .section-title{
+        text-align: center;
+        max-width: 100%;
+        h2{
+            text-transform: uppercase;
+            
+        }
+        p{
+            margin: 0 auto;
+        }
+    }
+    .joinus-form{
+        
+        input{
+            margin: 0;
+            width: 100%;
+            max-width: 570px;
+           height: 48px;
+            border-radius: 0;
+            outline: none;
+            background-color: rgb(226, 216, 216);
+            border: 1px solid grey;
+            padding-left: 20px ;
+            border-radius: 5px 0 0 5px ;
+        }
+        .btn-form{
+            margin: 0;
+            height: 49px;
+position: relative;
+top: -3px;
+left: -5px;
+color: #fff;
+            line-height: 33px;
+            background: #FC724D;
+            border: 1px solid #E6E6E6;
+            border-radius: 0px 5px 5px 0px
+            
+            
+        }
+
+
+    }
+}

@@ -1,0 +1,138 @@
+.impressions2{
+    .col-md-4{
+
+        .card{
+
+            border: none;
+
+
+            .sale{
+                img{
+                    position: absolute;
+                    top: 5px;
+                }
+
+            }
+        }
+        h6{
+            margin-top: 26px;
+            line-height: 26px;
+            display: inline;
+            margin-right: 101px;
+            font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+letter-spacing: 0.2px;
+
+/* primary-text-color */
+
+color: #FC724D;
+        }
+        .card-body{
+           padding-top: 26px;
+            .card-title{
+                margin-top: 11px;
+                margin-bottom: 10px;
+                font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+letter-spacing: 0.1px;
+
+/* text-color */
+
+color: #252B42;
+
+
+            }
+            .card-text{
+                font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+
+letter-spacing: 0.2px;
+
+/* second-text-color */
+
+color: #737373
+            }
+            .btn-my{
+                width: 141px;
+                height: 44px;
+                align-items: center;
+padding: 10px 20px;
+gap: 10px;
+
+border-radius: 37px;
+                margin-bottom: 30px;
+                background-color: white;
+                font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+letter-spacing: 0.2px;
+
+/* primary-color */
+
+color: #FC724D;
+border: 1px solid #FC724D ;
+            }
+            .price{
+                margin-bottom: 25px;
+                .one{font-weight: 700;
+                    font-size: 16px;
+                    line-height: 24px;
+                    /* identical to box height, or 150% */
+                    
+                    text-align: center;
+                    letter-spacing: 0.1px;
+                    
+                    /* muted-color */
+                    
+                    color: #BDBDBD;
+                    }
+                .two{font-weight: 700;
+                    font-size: 16px;
+                    line-height: 24px;
+                    /* identical to box height, or 150% */
+                    
+                    text-align: center;
+                    letter-spacing: 0.1px;
+                    
+                    /* secondary-color-1 */
+                    
+                    color: #0061FF;
+                    }
+            }
+            img{
+
+                width: 50px;
+                height: 26px;
+            }
+            
+            .sales{
+                h5{
+                    font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+letter-spacing: 0.2px;
+
+/* second-text-color */
+
+color: #737373;
+                }
+                img{
+                    width: 16px;
+                    height: 16px;
+                }
+            }
+        }
+    }
+}
